@@ -100,12 +100,7 @@
 .fade-in-right {
   animation: fadeInRight 0.8s ease-out forwards;
 }
-.fade-in {
-  animation: fadeIn 0.8s ease-out forwards;
-}
-.delay-1 {
-  animation-delay: 3s;
-}
+
 
 .delay-2 {
   animation-delay: 0.3s;
