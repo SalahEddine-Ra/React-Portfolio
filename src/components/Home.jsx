@@ -133,7 +133,7 @@ const Home = () => {
               <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
             </a>
             <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
-              <img src="https://cdn.simpleicons.org/linkedin"  alt="LinkedIn" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
+              <img src="/public/assets/linkedin.svg" alt="LinkedIn" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
             </a>
           </div>
 
