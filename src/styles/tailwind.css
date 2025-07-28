@@ -1,0 +1,82 @@
+
+@layer base {
+  :root {
+    /* Global Colors */
+    --global-bg-1: #d9d9d9;
+    --global-bg-2: #ded9d984;
+    --global-bg-3: #dedede;
+    --global-bg-4: #dfdfdf;
+    --global-bg-5: #dedbdb;
+    --global-bg-6: #ffffff;
+    --global-bg-7: #fbfbfb;
+    --global-bg-8: #ce8805;
+    --global-bg-9: #946001;
+    --global-text-1: #075985;
+    --global-text-2: #946001;
+    --global-text-3: #abaaa9;
+
+    /* Button Colors */
+    --button-bg-1: #075985;
+    --button-text-1: #ebebeb;
+    --button-text-2: #ffffff;
+
+    /* EditText Colors */
+    --edittext-bg-1: #fbfbfb;
+    --edittext-text-1: #abaaa9;
+    /* fonts */
+    --font-roboto: 'monospace';
+  }
+}
+
+@layer utilities {
+  /* Global */
+  .bg-global-1 {
+    background-color: var(--global-bg-1);
+  }
+  .bg-global-2 {
+    background-color: var(--global-bg-2);
+  }
+  .bg-global-3 {
+    background-color: var(--global-bg-3);
+  }
+  .bg-global-4 {
+    background-color: var(--global-bg-4);
+  }
+  .bg-global-5 {
+    background-color: var(--global-bg-5);
+  }
+  .bg-global-6 {
+    background-color: var(--global-bg-6);
+  }
+  .bg-global-7 {
+    background-color: var(--global-bg-7);
+  }
+  .text-global-1 {
+    color: var(--global-text-1);
+  }
+  .text-global-2 {
+    color: var(--global-text-2);
+  }
+  .text-global-3 {
+    color: var(--global-text-3);
+  }
+
+  /* Button */
+  .bg-button-1 {
+    background-color: var(--button-bg-1);
+  }
+  .text-button-1 {
+    color: var(--button-text-1);
+  }
+  .text-button-2 {
+    color: var(--button-text-2);
+  }
+
+  /* EditText */
+  .bg-edittext-1 {
+    background-color: var(--edittext-bg-1);
+  }
+  .text-edittext-1 {
+    color: var(--edittext-text-1);
+  }
+}
