@@ -20,7 +20,7 @@ export default function Projects() {
         "A modern portfolio showcasing my work and skills with interactive elements.",
         image: "/src/assets/projects/portfoliomine.png?height=300&width=500&text=Portfolio+Website",
       technologies: ["Reactjs", "Tailwind CSS", "CSS"],
-      sourceUrl: "https://github.com/example",
+      sourceUrl: "https://github.com/SalahEddine-Ra/React-Portfolio",
       category: "Front-end",
       icon: <Palette className="w-6 h-6" />,
     },
