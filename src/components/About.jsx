@@ -70,7 +70,7 @@ const About = () => {
   <div className="image-container">
   <img
     loading="lazy"
-    src="src/assets/avataaars.svg"
+    src="/assets/avataaars.svg"
     alt="Background vector"
     className="vector-bg"
   />

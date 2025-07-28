@@ -1,9 +1,9 @@
 import { Code, Palette, Figma, Brush, Layers } from "lucide-react"
 import '/src/styles/skills.css';
-import cssimage from '/src/assets/img_732190_1.png';
-import figmaimage from '/src/assets/img_5968705_1.png';
-import iluusimage from '/src/assets/img_5968472_1.png';
-import canvaimage from '/src/assets/img_canva_icon_1.png';
+import cssimage from '/assets/img_732190_1.png';
+import figmaimage from '/assets/img_5968705_1.png';
+import iluusimage from '/assets/img_5968472_1.png';
+import canvaimage from '/assets/img_canva_icon_1.png';
 
 export default function Skills() {
   const webDevSkills = [

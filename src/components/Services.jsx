@@ -18,7 +18,7 @@ const Services = () => {
           {/* Service Card */}
           <div className="bg-white rounded-3xl shadow-xl  border border-gray-100 "style={{paddingBlock: '2rem', paddingInline: '2rem'}}>
             <div className="flex flex-col gap-[11px] sm:gap-[15px] md:gap-[18px] lg:gap-[22px] justify-start items-center flex-1 mt-[3px] sm:mt-[4px] md:mt-[5px] lg:mt-[6px] mx-[38px] sm:mx-[51px] md:mx-[64px] lg:mx-[76px] mr-[44px] sm:mr-[59px] md:mr-[74px] lg:mr-[88px]" >
-                  <img src="/src/assets/img_3242257_2.png" alt="Web Development" className="w-[54px] sm:w-[29px] md:w-[64px] lg:w-[58px] h-[54px] sm:h-[29px] md:h-[64px] lg:h-[58px]"/>
+                  <img src="/assets/img_3242257_2.png" alt="Web Development" className="w-[54px] sm:w-[29px] md:w-[64px] lg:w-[58px] h-[54px] sm:h-[29px] md:h-[64px] lg:h-[58px]"/>
                   <h3 className="text-[20px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-anonymous-pro font-bold leading-[15px] sm:leading-[20px] md:leading-[25px] lg:leading-[30px] text-center text-[#075985]"style={{marginBottom: '15px' }}>
                     Web Development
                   </h3>
@@ -30,7 +30,7 @@ const Services = () => {
           {/* Service Card */}
           <div className="bg-white rounded-3xl shadow-xl p-8 sm:p-10 lg:p-12 border border-gray-100"style={{paddingBlock: '2rem', paddingInline: '2rem'}}>
                 <div className="flex flex-col gap-[11px] sm:gap-[15px] md:gap-[18px] lg:gap-[22px] justify-start items-center flex-1 mt-[3px] sm:mt-[4px] md:mt-[5px] lg:mt-[6px] mx-[38px] sm:mx-[51px] md:mx-[64px] lg:mx-[76px] mr-[44px] sm:mr-[59px] md:mr-[74px] lg:mr-[88px]">
-                    <img src="/src/assets/img_1312301_2.png" alt="Business Card" className="w-[54px] sm:w-[29px] md:w-[64px] lg:w-[58px] h-[54px] sm:h-[29px] md:h-[64px] lg:h-[58px]" />
+                    <img src="/assets/img_1312301_2.png" alt="Business Card" className="w-[54px] sm:w-[29px] md:w-[64px] lg:w-[58px] h-[54px] sm:h-[29px] md:h-[64px] lg:h-[58px]" />
                     <h3 className="text-[20px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-anonymous-pro font-bold leading-[15px] sm:leading-[20px] md:leading-[25px] lg:leading-[30px] text-center text-[#075985] mt-[11px] sm:mt-[15px] md:mt-[18px] lg:mt-[22px]"style={{marginBottom: '15px' }}>
                   business card
                 </h3>
@@ -42,7 +42,7 @@ const Services = () => {
           {/* Service Card */}
           <div className="bg-white rounded-3xl shadow-xl p-8 sm:p-10 lg:p-12 border border-gray-100"style={{paddingBlock: '2rem', paddingInline: '2rem'}}>
                 <div className="flex flex-col gap-[11px] sm:gap-[15px] md:gap-[18px] lg:gap-[22px] justify-start items-center flex-1 mt-[3px] sm:mt-[4px] md:mt-[5px] lg:mt-[6px] mx-[38px] sm:mx-[51px] md:mx-[64px] lg:mx-[76px] mr-[44px] sm:mr-[59px] md:mr-[74px] lg:mr-[88px]">
-                    <img src="/src/assets/img_9414777_2.png" alt="Posters" className="w-[54px] sm:w-[29px] md:w-[64px] lg:w-[58px] h-[54px] sm:h-[29px] md:h-[64px] lg:h-[58px]" />
+                    <img src="/assets/img_9414777_2.png" alt="Posters" className="w-[54px] sm:w-[29px] md:w-[64px] lg:w-[58px] h-[54px] sm:h-[29px] md:h-[64px] lg:h-[58px]" />
                 <h3 className="text-[20px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-anonymous-pro font-bold leading-[15px] sm:leading-[20px] md:leading-[25px] lg:leading-[30px] text-center text-[#075985] mt-[9px] sm:mt-[12px] md:mt-[15px] lg:mt-[18px]"style={{marginBottom: '15px' }}>
                   Posters
                 </h3>

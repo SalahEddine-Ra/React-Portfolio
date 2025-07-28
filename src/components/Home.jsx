@@ -127,13 +127,13 @@ const Home = () => {
 
           <div className="social-media flex justify-center space-x-6 fade-in-right delay-4">
             <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
+              <img src="https://cdn.simpleicons.org/instagram/8a3ab8" alt="Instagram" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
             </a>
             <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
+              <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
             </a>
             <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
+              <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" className="h-8 w-8 transition-all duration-300 ease-in-out hover:scale-110" />
             </a>
           </div>
 

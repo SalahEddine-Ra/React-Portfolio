@@ -18,7 +18,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "A modern portfolio showcasing my work and skills with interactive elements.",
-        image: "/src/assets/projects/portfoliomine.png?height=300&width=500&text=Portfolio+Website",
+        image: "/assets/projects/portfoliomine.png?height=300&width=500&text=Portfolio+Website",
       technologies: ["Reactjs", "Tailwind CSS", "CSS"],
       sourceUrl: "https://github.com/SalahEddine-Ra/React-Portfolio",
       category: "Front-end",
@@ -30,7 +30,7 @@ export default function Projects() {
       title: "E-Commerce Platform",
       description:
         "A static front-end e-commerce website for sports clothing, built with HTML and CSS.",
-      image: "/src/assets/projects/elites-style.png?height=300&width=500&text=E-Commerce+Platform",
+      image: "/assets/projects/elites-style.png?height=300&width=500&text=E-Commerce+Platform",
       technologies: ["HTML", "CSS"],
       liveUrl: "https://elites-style.zertline.com/",
       sourceUrl: "https://github.com/SalahEddine-Ra/Elites-Style",
@@ -42,7 +42,7 @@ export default function Projects() {
       title: "Task Management App",
       description:
         "A minimalist task management application with real-time updates.",
-      image: "/src/assets/projects/clearmind.png?height=300&width=500&text=Task+Management+App",
+      image: "/assets/projects/clearmind.png?height=300&width=500&text=Task+Management+App",
       technologies: ["HTML", "CSS", "JavaScript"],
       liveUrl: "https://salaheddine-ra.github.io/To-do-liste/",
       sourceUrl: "https://github.com/SalahEddine-Ra/To-do-liste",
@@ -54,7 +54,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "A modern website for an education center built with a team",
-        image: "/src/assets/projects/edu copy.jpg?height=300&width=500&text=Education+Center",
+        image: "/assets/projects/edu copy.jpg?height=300&width=500&text=Education+Center",
       technologies: ["HTML", "CSS", "JavaScript"],
       liveUrl: "https://groupelexcellence.net/",
       category: "Frontend",
@@ -65,7 +65,7 @@ export default function Projects() {
       title: "Bank System",
       description:
         "A complete banking system with user authentication and transaction management.",
-      image: "/src/assets/projects//mybank.png?height=300&width=500&text=Bank+System",
+      image: "/assets/projects/mybank.png?height=300&width=500&text=Bank+System",
       technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "Bootstrap"],
       sourceUrl: "https://github.com/SalahEddine-Ra/Bank-System",
       category: "Back-end",
